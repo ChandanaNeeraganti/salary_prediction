@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#00BFFF"  # Shiny blue (buttons, highlights)
+backgroundColor = "#000000"  # True black
+secondaryBackgroundColor = "#1A1A1A"  # Panels, widgets, boxes
+textColor = "#FAFAFA"  # Bright white text
+font = "sans serif"
